@@ -1,609 +1,635 @@
+<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║           KARTHIK K — GitHub Profile README v2.0.26                    ║ -->
+<!-- ║   Paste this file into your karthikk20234119-cmd/karthikk20234119-cmd  ║ -->
+<!-- ║   repository as README.md. Everything works out of the box.            ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    HEADER BANNER                              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030303,30:050d17,60:0a1628,100:1a1a2e&height=230&section=header&text=KARTHIK%20K&fontSize=68&fontColor=00d4ff&fontAlignY=42&animation=fadeIn&desc=AI%20Engineer%20%E2%9C%A6%20Full%20Stack%20Developer%20%E2%9C%A6%20Product%20Builder&descColor=a78bfa&descAlignY=63&descSize=18" width="100%"/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    TYPING ANIMATION                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <br/>
+  <a href="https://karthik-k-portfolio.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=750&height=55&lines=SYSTEM_INIT+%3A%3A+AI+Engineer+%7C+Full+Stack+Developer;Building+AI-Powered+Products+for+Real+Impact;Computer+Vision+%7C+LangChain+%7C+Generative+AI;Scalable+SaaS+%7C+Agentic+Systems+%7C+MCP;Open+Source+Contributor+%E2%9C%A6+Available+for+Opportunities" alt="Typing SVG" />
+  </a>
+  <br/><br/>
+
+  <!-- ── PROFILE VIEWS ── -->
+  <img src="https://komarev.com/ghpvc/?username=karthikk20234119-cmd&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/karthikk20234119-cmd?style=for-the-badge&color=a78bfa&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/karthikk20234119-cmd?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=STARS" alt="Stars"/>
+  <br/><br/>
+
+  <!-- ── SOCIAL BADGES ── -->
+  <a href="https://karthik-k-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-00d4ff?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfolio"/>
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/karthikk4">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="mailto:karthik444568@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>&nbsp;
+  <a href="https://github.com/karthikk20234119-cmd">
+    <img src="https://img.shields.io/badge/GITHUB-e6edf3?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub"/>
+  </a>
+  <br/><br/>
+
+  <!-- ── OPEN TO WORK ── -->
+  <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20OPPORTUNITIES-00ff9d?style=for-the-badge&labelColor=0d1117" alt="Available"/>
+  <br/><br/>
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   TERMINAL HERO SECTION                      -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED BANNER                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  KARTHIK.K :: SYSTEM_INIT :: CORE_ACTIVE                            ║
+║  ──────────────────────────────────────────────────────────────── ║
+║  > Location   : Madurai, Tamil Nadu, India                          ║
+║  > Role       : AI Engineer & Full Stack Developer                  ║
+║  > Mission    : Build AI-powered software that solves real problems  ║
+║  > Status     : ONLINE // Available for Opportunities               ║
+║  > AI_CORE    : LangChain · YOLOv8 · GenAI · MCP · Agentic AI     ║
+║  > STACK_CORE : Python · React · Node · FastAPI · Docker · AWS     ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,30:00C8FF,70:8B5CF6,100:0A0F1E&height=200&section=header&text=Karthik%20K&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=55&descSize=18&animation=twinkling" alt="Header"/>
+</div>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    TYPING SVG                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+---
 
-<a href="https://github.com/karthikk20234119-cmd">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=⚡+Building+AI+Agents+%26+Automation+Systems;🧠+Full+Stack+Developer+%7C+AI+Engineer;🚀+Turning+Ideas+into+Intelligent+Products;🌐+India+%7C+Open+Source+%7C+Cloud+%7C+ML;💡+Innovate.+Automate.+Elevate." alt="Typing SVG"/>
-</a>
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                      ABOUT ME                                 -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    SOCIAL BADGES                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28"/> &nbsp;`// ABOUT_ME`
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+```yaml
+# KARTHIK K :: PROFILE
+───────────────────────────────
+Name      : Karthik K
+Location  : Madurai, Tamil Nadu, India
+Domain    : AI Engineering + Full Stack
+Mission   : Build scalable AI products that
+            compound human leverage
+Focus     : Agentic AI · Computer Vision ·
+            SaaS Platforms · Open Source
+Open To   : AI Roles · Full Stack · Freelance
+───────────────────────────────
+Identity  : Engineer who ships products,
+            not just code.
+```
+
+</td>
+<td width="42%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=karthikk20234119-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&text_color=e2e8f0&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+I architect **autonomous agent systems**, **neural computer vision pipelines**, and **production-ready full-stack software** that solves real-world problems at scale. From AI-powered crop disease detection to enterprise SaaS portals — I build systems that ship.
+
+> *"Applied machine learning sits at the intersection of mathematical theory and pragmatic engineering. I design clean systems that successfully connect the two."*
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    CURRENT FOCUS                              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🎯 &nbsp;`// CURRENT_FOCUS :: 2026`
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🤖_AGENTIC_AI-Building_MCP_pipelines-00d4ff?style=flat-square&labelColor=0d1117" alt="Agentic AI"/><br/>
+<sub><b>Agentic AI & MCP</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🧠_GENERATIVE_AI-LangChain_&_RAG-a78bfa?style=flat-square&labelColor=0d1117" alt="GenAI"/><br/>
+<sub><b>GenAI & RAG Systems</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🚀_SAAS-Scalable_Platforms-00ff9d?style=flat-square&labelColor=0d1117" alt="SaaS"/><br/>
+<sub><b>SaaS Product Building</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/👁️_CV-YOLOv8_Pipelines-f97316?style=flat-square&labelColor=0d1117" alt="CV"/><br/>
+<sub><b>Computer Vision</b></sub>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                      TECH STACK                               -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## ⚡ &nbsp;`// TECH_STACK`
+
+### 〉Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,c,cpp,sql&theme=dark" alt="Languages"/>
+</div>
+
+### 〉Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nextjs,vite&theme=dark" alt="Frontend"/>
+</div>
+
+### 〉Backend & APIs
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark" alt="Backend"/>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/REST_APIs-0d1117?style=flat-square&logo=fastapi&logoColor=00d4ff" alt="REST"/>&nbsp;
+  <img src="https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=a78bfa" alt="JWT"/>&nbsp;
+  <img src="https://img.shields.io/badge/RBAC-0d1117?style=flat-square&logo=auth0&logoColor=00ff9d" alt="RBAC"/>
+</div>
+
+### 〉AI / ML Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI Core"/>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/YOLOv8-0d1117?style=flat-square&logo=yolo&logoColor=00d4ff" alt="YOLOv8"/>&nbsp;
+  <img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=00ff9d" alt="LangChain"/>&nbsp;
+  <img src="https://img.shields.io/badge/Generative_AI-0d1117?style=flat-square&logo=openai&logoColor=a78bfa" alt="GenAI"/>&nbsp;
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0d1117?style=flat-square&logo=openai&logoColor=f97316" alt="Prompt Eng"/>&nbsp;
+  <img src="https://img.shields.io/badge/Agentic_AI-0d1117?style=flat-square&logo=probot&logoColor=00d4ff" alt="Agentic AI"/>&nbsp;
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-0d1117?style=flat-square&logo=anthropic&logoColor=a78bfa" alt="MCP"/>&nbsp;
+  <img src="https://img.shields.io/badge/Computer_Vision-0d1117?style=flat-square&logo=opencv&logoColor=00d4ff" alt="CV"/>
+</div>
+
+### 〉Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase&theme=dark" alt="Databases"/>
+</div>
+
+### 〉Cloud & DevOps
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,vercel&theme=dark" alt="Cloud & DevOps"/>
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   FEATURED PROJECTS                           -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🛰️ &nbsp;`// MISSION_LOG :: FEATURED_PROJECTS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 AgroGuard AI
+**Computer Vision · Precision Agriculture**
+
+AI-powered crop disease detection using **YOLOv8** and **OpenCV** with React.js frontend and Flask REST API. Delivers instant diagnosis, automated alerts, and disease-reporting dashboards.
+
+- 📊 **94.2%** diagnostic accuracy across **15+ crop species**
+- ⚡ Real-time inference pipeline
+- 🔔 Automated alert system
+
+[![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00d4ff)](https://github.com/karthikk20234119-cmd)
+[![YOLOv8](https://img.shields.io/badge/YOLOv8-0d1117?style=flat-square&logo=yolo&logoColor=a78bfa)](https://github.com/karthikk20234119-cmd)
+[![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=00ff9d)](https://github.com/karthikk20234119-cmd)
+[![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=f97316)](https://github.com/karthikk20234119-cmd)
+[![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00d4ff)](https://github.com/karthikk20234119-cmd)
+
+[**→ View on GitHub**](https://github.com/karthikk20234119-cmd)
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 SalesNova AI
+**GenAI · SaaS · NLP**
+
+AI sales automation platform using **NLP** and **Generative AI** to analyze queries and generate personalized recommendations. Built analytics dashboards for conversion metrics and AI response quality.
+
+- 📈 **3.2x** increase in prospect response rate
+- 🤖 AI-powered recommendation engine
+- 📊 Conversion analytics dashboard
+
+[![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00d4ff)](https://github.com/karthikk20234119-cmd)
+[![NLP](https://img.shields.io/badge/NLP-0d1117?style=flat-square&logo=spacy&logoColor=a78bfa)](https://github.com/karthikk20234119-cmd)
+[![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00d4ff)](https://github.com/karthikk20234119-cmd)
+[![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=00ff9d)](https://github.com/karthikk20234119-cmd)
+[![GenAI](https://img.shields.io/badge/GenAI-0d1117?style=flat-square&logo=openai&logoColor=f97316)](https://github.com/karthikk20234119-cmd)
+
+[**→ View on GitHub**](https://github.com/karthikk20234119-cmd)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 MarkOne AI
+**EdTech · Chatbot Platform · NLP**
+
+Multi-turn AI chatbot with **NLP intent classification** and **Generative AI** deployed on AWS for high availability. Handles concurrent sessions with full context retention.
+
+- 🎯 **91.5%** grading alignment with human evaluators
+- ☁️ High-availability AWS deployment
+- 💬 Full multi-turn context retention
+
+[![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00d4ff)](https://github.com/karthikk20234119-cmd)
+[![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=f97316)](https://github.com/karthikk20234119-cmd)
+[![GenAI](https://img.shields.io/badge/GenAI-0d1117?style=flat-square&logo=openai&logoColor=a78bfa)](https://github.com/karthikk20234119-cmd)
+[![NLP](https://img.shields.io/badge/NLP-0d1117?style=flat-square&logo=spacy&logoColor=00ff9d)](https://github.com/karthikk20234119-cmd)
+
+[**→ View on GitHub**](https://github.com/karthikk20234119-cmd)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏫 PlacementOS
+**Full Stack · Enterprise Portal · RBAC**
+
+Full-stack campus placement platform with **RBAC**, **JWT authentication**, job tracking, and recruiter portals. Responsive dashboards for placement stats, interview schedules, and offer management.
+
+- 🎓 **1,200+ students** successfully cataloged & placed
+- 🔐 Role-based access control with JWT
+- 📋 End-to-end recruitment workflow
+
+[![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00d4ff)](https://github.com/karthikk20234119-cmd)
+[![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=00ff9d)](https://github.com/karthikk20234119-cmd)
+[![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=a78bfa)](https://github.com/karthikk20234119-cmd)
+[![JWT](https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=f97316)](https://github.com/karthikk20234119-cmd)
+
+[**→ View on GitHub**](https://github.com/karthikk20234119-cmd)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ Face Recognition Attendance
+**AI · Biometrics · Computer Vision**
+
+Touchless biometric attendance system with real-time **face detection**. Automated logging via Flask APIs and MySQL eliminated manual errors by ~90%. Admin dashboard with exportable records.
+
+- 🎯 **99.1%** verification accuracy under variable lighting
+- ⚡ ~90% reduction in manual errors
+- 📊 Admin dashboard with reporting
+
+[![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00d4ff)](https://github.com/karthikk20234119-cmd)
+[![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=a78bfa)](https://github.com/karthikk20234119-cmd)
+[![YOLOv8](https://img.shields.io/badge/YOLOv8-0d1117?style=flat-square&logo=yolo&logoColor=00ff9d)](https://github.com/karthikk20234119-cmd)
+[![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=f97316)](https://github.com/karthikk20234119-cmd)
+[![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=00d4ff)](https://github.com/karthikk20234119-cmd)
+
+[**→ View on GitHub**](https://github.com/karthikk20234119-cmd)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 LabLink
+**Full Stack · Real-time · Inventory**
+
+Connected lab asset management with automated **low-stock alerts**, role-based access control, real-time dashboards, and RESTful Node.js backend. Eliminated asset booking overlaps across all active test sites.
+
+- 🚫 **Zero** equipment booking overlaps across test sites
+- 🔔 Automated low-stock alert system
+- 📦 Real-time inventory dashboards
+
+[![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00d4ff)](https://github.com/karthikk20234119-cmd)
+[![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=00ff9d)](https://github.com/karthikk20234119-cmd)
+[![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=a78bfa)](https://github.com/karthikk20234119-cmd)
+[![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=f97316)](https://github.com/karthikk20234119-cmd)
+
+[**→ View on GitHub**](https://github.com/karthikk20234119-cmd)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <a href="https://karthik-k-portfolio.vercel.app/projects">
+    <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS_ON_PORTFOLIO-%E2%86%92-00d4ff?style=for-the-badge&labelColor=0d1117" alt="View All Projects"/>
+  </a>
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB STATS                               -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 📊 &nbsp;`// SYS_STATS :: GITHUB_METRICS`
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikk20234119-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&text_color=e2e8f0&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" width="100%"/>
+</td>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikk20234119-cmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=e2e8f0&langs_count=8&hide=jupyter+notebook" alt="Top Languages" width="100%"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikk4)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthikk20234119-cmd)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthik444568@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=karthikk20234119-cmd&style=for-the-badge&color=00C8FF&label=PROFILE+VIEWS)](https://github.com/karthikk20234119-cmd)
-
-<br/>
+<!-- STREAK STATS -->
+<img src="https://streak-stats.demolab.com?user=karthikk20234119-cmd&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=a78bfa&fire=00d4ff&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=00d4ff&sideLabels=a78bfa&dates=8b949e" alt="GitHub Streak" width="60%"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    ABOUT ME                                        -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   ACTIVITY GRAPH                              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 📈 &nbsp;`// CONTRIBUTION_GRAPH`
 
 <div align="center">
-
-## ⚡ `whoami`
-
-</div>
-
-```python
-class KarthikK:
-    def __init__(self):
-        self.name         = "Karthik K"
-        self.title        = "Software Engineer | Full Stack Developer | AI Engineer"
-        self.location     = "Madurai, Tamil Nadu, India 🇮🇳"
-        self.email        = "karthik444568@gmail.com"
-        self.education    = "Diploma in Computer Science Engineering (CGPA: 9.1/10)"
-        self.institution  = "Government Polytechnic College, Madurai"
-
-        self.current_work = [
-            "Co-leading AlphaX Solutions — AI Automation Agency",
-            "Building AI Agents, MCP Servers & Enterprise Automation",
-            "Developing LabLink, SalesNova AI, AgroGuard AI, PlacementOS",
-        ]
-
-        self.learning_now = [
-            "Kubernetes", "AWS", "LangGraph", "CrewAI",
-            "MCP Architecture", "Multi-Agent Systems", "System Design",
-        ]
-
-        self.passions = [
-            "AI Agents", "Agentic AI", "Full Stack Dev",
-            "Computer Vision", "Cloud Computing", "Open Source",
-        ]
-
-        self.fun_fact = "I turn coffee ☕ and code 💻 into intelligent products 🤖"
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together 🚀")
-
-me = KarthikK()
-me.say_hi()
-```
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    CURRENT FOCUS                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🎯 Current Focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔨 Currently Building
-```
-✦ AI Agents & Agentic Pipelines
-✦ MCP Servers & Multi-Agent Systems
-✦ Enterprise AI Automation
-✦ Healthcare AI Solutions
-✦ LabLink — Lab Inventory System
-✦ SalesNova AI — Sales Automation
-✦ AgroGuard AI — Crop Disease Detection
-✦ PlacementOS — Placement Portal
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Currently Learning
-```
-✦ Kubernetes & Container Orchestration
-✦ AWS Cloud Architecture
-✦ LangGraph & CrewAI
-✦ MCP Architecture
-✦ Multi-Agent Systems
-✦ Distributed Systems
-✦ Advanced System Design
-✦ DevSecOps Practices
-```
-
-</td>
-</tr>
-</table>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikk20234119-cmd&bg_color=0d1117&color=00d4ff&line=a78bfa&point=00d4ff&area_color=a78bfa&area=true&hide_border=true&title_color=00d4ff&custom_title=CONTRIBUTION+ACTIVITY+GRAPH" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    TECH STACK                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   GITHUB TROPHY                               -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🏆 &nbsp;`// GITHUB_TROPHIES`
 
 <div align="center">
-
-## 🛠️ Tech Stack & Skills
-
-### 💻 Programming Languages
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
-
-### 🎨 Frontend Development
-
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
-
-### ⚙️ Backend Development
-
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
-[![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://restfulapi.net)
-[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)](https://jwt.io)
-
-### 🤖 AI / ML Stack
-
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com)
-[![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)](https://ultralytics.com)
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-
-### 🗄️ Databases
-
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
-
-### ☁️ Cloud, DevOps & Tools
-
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=karthikk20234119-cmd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" alt="GitHub Trophies" width="100%"/>
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                               -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--         SNAKE CONTRIBUTION ANIMATION                          -->
+<!--  SETUP: Create .github/workflows/snake.yml in this repo      -->
+<!--  (See setup instructions at bottom of this file)             -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🐍 &nbsp;`// CONTRIBUTION_SNAKE`
 
 <div align="center">
-
-## 🚀 Featured Projects
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔬 [LabLink](https://github.com/karthikk20234119-cmd)
-> **Enterprise Lab Inventory Management System**
-
-[![Stars](https://img.shields.io/github/stars/karthikk20234119-cmd/LabLink?style=flat-square&color=00C8FF)](https://github.com/karthikk20234119-cmd)
-[![Lang](https://img.shields.io/badge/Stack-React%20|%20Node%20|%20MongoDB-8B5CF6?style=flat-square)](https://github.com/karthikk20234119-cmd)
-
-A full-featured enterprise platform for lab inventory and asset management — **actively deployed at institutions**.
-
-**Key Features:**
-- 🔐 Role-Based Access Control (RBAC)
-- 🔑 JWT Authentication
-- 📦 Real-time Inventory Tracking
-- 📊 Analytics Dashboard
-- 🔗 RESTful APIs
-
-</td>
-<td width="50%" valign="top">
-
-### 🌾 [AgroGuard AI](https://github.com/karthikk20234119-cmd)
-> **AI-Powered Crop Disease Detection Platform**
-
-[![Stars](https://img.shields.io/github/stars/karthikk20234119-cmd/AgroGuard?style=flat-square&color=00C8FF)](https://github.com/karthikk20234119-cmd)
-[![Lang](https://img.shields.io/badge/Stack-YOLOv8%20|%20Flask%20|%20React-8B5CF6?style=flat-square)](https://github.com/karthikk20234119-cmd)
-
-Real-time crop disease detection using computer vision — **90%+ accuracy** with YOLOv8.
-
-**Key Features:**
-- 🤖 YOLOv8 Object Detection
-- 👁️ OpenCV Image Processing
-- 🌐 Flask REST Backend
-- ⚡ React Frontend Dashboard
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💼 [SalesNova AI](https://github.com/karthikk20234119-cmd)
-> **Generative AI Sales Automation Platform**
-
-[![Stars](https://img.shields.io/github/stars/karthikk20234119-cmd/SalesNova?style=flat-square&color=00C8FF)](https://github.com/karthikk20234119-cmd)
-[![Lang](https://img.shields.io/badge/Stack-LangChain%20|%20LLM%20|%20Node-8B5CF6?style=flat-square)](https://github.com/karthikk20234119-cmd)
-
-LangChain-powered intelligent sales automation with multi-turn conversation and lead qualification.
-
-**Key Features:**
-- 🧠 LangChain + LLM Integration
-- 💬 Multi-turn Conversational AI
-- 📈 Intelligent Lead Qualification
-- 🔄 Automated Follow-up Sequences
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 [MarkOne AI](https://github.com/karthikk20234119-cmd)
-> **Enterprise AI Chatbot — AWS Deployed**
-
-[![Stars](https://img.shields.io/github/stars/karthikk20234119-cmd/MarkOne?style=flat-square&color=00C8FF)](https://github.com/karthikk20234119-cmd)
-[![Lang](https://img.shields.io/badge/Stack-Python%20|%20AWS%20|%20NLP-8B5CF6?style=flat-square)](https://github.com/karthikk20234119-cmd)
-
-Multi-turn enterprise AI chatbot deployed on AWS with NLP-driven contextual responses.
-
-**Key Features:**
-- ☁️ AWS Cloud Deployment
-- 🗣️ NLP-driven Responses
-- 🔄 Multi-turn Conversation
-- 🏢 Enterprise-grade Architecture
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 [PlacementOS](https://github.com/karthikk20234119-cmd)
-> **Full-Stack Placement Management Portal**
-
-[![Stars](https://img.shields.io/github/stars/karthikk20234119-cmd/PlacementOS?style=flat-square&color=00C8FF)](https://github.com/karthikk20234119-cmd)
-[![Lang](https://img.shields.io/badge/Stack-React%20|%20Node%20|%20MySQL-8B5CF6?style=flat-square)](https://github.com/karthikk20234119-cmd)
-
-RBAC-secured full-stack placement management system with JWT authentication.
-
-**Key Features:**
-- 🔐 RBAC + JWT Security
-- 📋 Placement Drive Management
-- 👤 Student & Admin Portals
-- 📊 Analytics & Reporting
-
-</td>
-<td width="50%" valign="top">
-
-### 👤 [Face Recognition Attendance](https://github.com/karthikk20234119-cmd)
-> **Automated Attendance System**
-
-[![Stars](https://img.shields.io/github/stars/karthikk20234119-cmd/FaceAttendance?style=flat-square&color=00C8FF)](https://github.com/karthikk20234119-cmd)
-[![Lang](https://img.shields.io/badge/Stack-Python%20|%20OpenCV%20|%20Flask-8B5CF6?style=flat-square)](https://github.com/karthikk20234119-cmd)
-
-Real-time face recognition-powered attendance automation using OpenCV and Flask.
-
-**Key Features:**
-- 👁️ Real-time Face Recognition
-- 🐍 Python + OpenCV Core
-- 🌐 Flask Web Interface
-- 📋 Auto Attendance Logging
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<table>
-<tr>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=karthikk20234119-cmd&show_icons=true&theme=tokyonight&bg_color=0A0F1E&title_color=00C8FF&text_color=ffffff&icon_color=8B5CF6&border_color=00C8FF&border_radius=12&hide_border=false&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
-</td>
-<td width="50%">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikk20234119-cmd&theme=tokyonight&background=0A0F1E&ring=00C8FF&fire=8B5CF6&currStreakLabel=00C8FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8B5CF6&border=00C8FF&border_radius=12" alt="GitHub Streak"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikk20234119-cmd&layout=compact&theme=tokyonight&bg_color=0A0F1E&title_color=00C8FF&text_color=ffffff&border_color=00C8FF&border_radius=12&langs_count=10" alt="Top Languages"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karthikk20234119-cmd/karthikk20234119-cmd/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karthikk20234119-cmd/karthikk20234119-cmd/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/karthikk20234119-cmd/karthikk20234119-cmd/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION GRAPH                              -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    ACHIEVEMENTS                               -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🎖️ &nbsp;`// ACHIEVEMENTS :: ACH_SEC`
 
 <div align="center">
-
-## 📈 Contribution Graph
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=karthikk20234119-cmd&bg_color=0A0F1E&color=00C8FF&line=8B5CF6&point=ffffff&area=true&area_color=00C8FF&border_color=00C8FF&hide_border=false&radius=12" alt="Activity Graph"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB TROPHIES                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=karthikk20234119-cmd&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    ACHIEVEMENTS                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🎖️ Achievements & Recognition
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-### 🌍
-**Top 10 Global Finalist**
-QS ImpACT Skills Challenge 2026
-`International Recognition`
-
-</td>
-<td align="center" width="25%">
-
-### 💻
-**National Hackathon Participant**
-HackSpora 2K25
-`National Level`
-
-</td>
-<td align="center" width="25%">
-
-### 🏢
-**Product Development Intern**
-Forge
-`Industry Experience`
-
-</td>
-<td align="center" width="25%">
-
-### 🏓
-**Divisional Winner**
-Table Tennis Championship
-`Athletic Achievement`
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    CERTIFICATIONS                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 📜 Certifications
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-[![Google](https://img.shields.io/badge/Google-AI_Agents_Intensive-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://grow.google)
-
-</td>
-<td align="center" width="25%">
-
-[![Infosys](https://img.shields.io/badge/Infosys-Springboard-0076CE?style=for-the-badge&logo=infosys&logoColor=white)](https://infosysspringboard.com)
-
-</td>
-<td align="center" width="25%">
-
-[![GUVI](https://img.shields.io/badge/GUVI_×_HCL-Certified-FF6600?style=for-the-badge&logo=hcl&logoColor=white)](https://guvi.in)
-
-</td>
-<td align="center" width="25%">
-
-[![Google](https://img.shields.io/badge/Google-Analytics-FBBC04?style=for-the-badge&logo=google-analytics&logoColor=black)](https://analytics.google.com)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-
-[![JPMorgan](https://img.shields.io/badge/JP_Morgan-Forage-003087?style=for-the-badge&logo=jpmorgan&logoColor=white)](https://forage.com)
-
-</td>
-<td align="center" width="25%">
-
-[![Deloitte](https://img.shields.io/badge/Deloitte-Forage-86BC25?style=for-the-badge&logo=deloitte&logoColor=white)](https://forage.com)
-
-</td>
-<td align="center" width="25%">
-
-[![TATA](https://img.shields.io/badge/TATA-Forage-0078D4?style=for-the-badge&logo=tata&logoColor=white)](https://forage.com)
-
-</td>
-<td align="center" width="25%">
-
-[![Mastercard](https://img.shields.io/badge/Mastercard-Cybersecurity-EB001B?style=for-the-badge&logo=mastercard&logoColor=white)](https://forage.com)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    ALPHAX SOLUTIONS                                -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🏢 Co-Leading AlphaX Solutions
-
-> *Innovate. Automate. Elevate.*
-
-[![AlphaX](https://img.shields.io/badge/AlphaX_Solutions-AI_Automation_Agency-00C8FF?style=for-the-badge&logo=robot&logoColor=white)](#)
-
-**We build AI Agents that replace manual work, cut costs, and grow revenue — delivered in weeks, not months.**
-
-*Serving clients across 🇮🇳 India · 🇦🇪 UAE · 🇺🇸 USA*
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    RANDOM DEV QUOTE                               -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 💬 Dev Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=The+best+way+to+predict+the+future+is+to+invent+it.&author=Alan+Kay" alt="Dev Quote"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    SNAKE ANIMATION                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karthikk20234119-cmd/karthikk20234119-cmd/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karthikk20234119-cmd/karthikk20234119-cmd/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/karthikk20234119-cmd/karthikk20234119-cmd/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-> **Setup tip:** To activate the snake animation, add this GitHub Action to your profile repo:  
-> `.github/workflows/snake.yml` — [See setup guide →](https://github.com/Platane/snk)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    CURRENT GOALS                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🎯 2026 Goals
-
-</div>
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                         KARTHIK K — GOALS 2026                              │
-├───────────────────────────────────────┬─────────────────────────────────────┤
-│  🚀 PRODUCT                           │  📚 LEARNING                        │
-│  ├─ Launch LabLink v2.0               │  ├─ AWS Certified Developer         │
-│  ├─ Ship SalesNova AI to 10+ clients  │  ├─ Kubernetes (CKA)                │
-│  ├─ AgroGuard AI — Prod Deployment    │  ├─ LangGraph & CrewAI              │
-│  └─ Build 3 Production MCP Servers    │  └─ System Design Mastery           │
-├───────────────────────────────────────┼─────────────────────────────────────┤
-│  🤝 COMMUNITY                         │  💼 CAREER                          │
-│  ├─ 10+ Open Source Contributions     │  ├─ Land SWE Role at Top Company    │
-│  ├─ Tech Blog — Monthly Articles      │  ├─ Grow AlphaX Solutions           │
-│  └─ Mentor Junior Developers          │  └─ Speak at 1 Tech Conference      │
-└───────────────────────────────────────┴─────────────────────────────────────┘
-```
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    CONTACT                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 📬 Let's Connect & Build Together
-
 <table>
 <tr>
 <td align="center" width="33%">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikk4)
-**Professional Network**
+**🌍 QS ImpACT Skills Challenge**
+<br/>
+<img src="https://img.shields.io/badge/TOP_10_FINALIST-GLOBAL-00d4ff?style=for-the-badge&labelColor=0d1117" alt="QS Challenge"/>
+<br/>
+<sub>Top 10 Finalist Team • International • UN SDGs</sub>
 
 </td>
 <td align="center" width="33%">
 
-[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthik444568@gmail.com)
-**Drop a Message**
+**💡 National Hackathon**
+<br/>
+<img src="https://img.shields.io/badge/HACKSPORA_2K25-PARTICIPANT-a78bfa?style=for-the-badge&labelColor=0d1117" alt="Hackathon"/>
+<br/>
+<sub>24h National Level • AI & Data Science</sub>
 
 </td>
 <td align="center" width="33%">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthikk20234119-cmd)
-**Check My Code**
+**🤖 Google AI Agents Intensive**
+<br/>
+<img src="https://img.shields.io/badge/GOOGLE-AI_INTENSIVE-00ff9d?style=for-the-badge&labelColor=0d1117" alt="Google AI"/>
+<br/>
+<sub>AI Agents · Gemini · Advanced ML</sub>
 
 </td>
 </tr>
 </table>
-
-<br/>
-
-> 💡 *Open to SWE roles, AI/ML collaborations, freelance projects, and open-source contributions!*
+</div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:00C8FF,100:0A0F1E&height=120&section=footer&text=&animation=twinkling" alt="Footer"/>
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   CERTIFICATIONS                              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<sub>
-  <strong>⚡ Built with passion in Madurai, Tamil Nadu, India 🇮🇳</strong><br/>
-  <em>"Code is poetry. AI is the future. Let's build it together."</em>
-</sub>
+## 📜 &nbsp;`// CERTIFICATIONS :: VERIFIED`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Infosys-CERTIFIED-00d4ff?style=for-the-badge&logo=infosys&logoColor=white&labelColor=0d1117" alt="Infosys"/>&nbsp;
+<img src="https://img.shields.io/badge/GUVI-CERTIFIED-a78bfa?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=0d1117" alt="GUVI"/>&nbsp;
+<img src="https://img.shields.io/badge/Google_Analytics-CERTIFIED-f97316?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=0d1117" alt="Google Analytics"/>
 
 <br/><br/>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=karthikk20234119-cmd.karthikk20234119-cmd&left_color=0A0F1E&right_color=00C8FF&left_text=Visitors)
+<img src="https://img.shields.io/badge/JP_Morgan-FORAGE-00ff9d?style=for-the-badge&logo=jpmorgan&logoColor=000&labelColor=0d1117" alt="JP Morgan"/>&nbsp;
+<img src="https://img.shields.io/badge/Deloitte-FORAGE-00d4ff?style=for-the-badge&logo=deloitte&logoColor=white&labelColor=0d1117" alt="Deloitte"/>&nbsp;
+<img src="https://img.shields.io/badge/TATA-FORAGE-a78bfa?style=for-the-badge&logo=tata&logoColor=white&labelColor=0d1117" alt="TATA"/>&nbsp;
+<img src="https://img.shields.io/badge/Mastercard-CYBERSECURITY-f97316?style=for-the-badge&logo=mastercard&logoColor=white&labelColor=0d1117" alt="Mastercard"/>
 
 </div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   2026 GOALS                                  -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🚀 &nbsp;`// 2026_GOALS :: ROADMAP`
+
+```
+MISSION OBJECTIVES — 2026
+─────────────────────────────────────────────────────────────
+ [ ] Ship 2+ AI-powered SaaS products used by real users
+ [ ] Contribute to 5+ open-source AI/ML projects
+ [ ] Build production-grade Agentic AI systems with MCP
+ [ ] Master advanced RAG architectures + vector DBs
+ [ ] Land AI Engineer role at a high-impact company
+ [ ] Build LangChain-powered multi-agent orchestration
+ [ ] Deepen expertise: PyTorch · Transformers · LoRA · RLHF
+ [ ] Launch personal AI product with 1000+ active users
+─────────────────────────────────────────────────────────────
+STATUS: IN_PROGRESS :: COMPILE_OK :: EXECUTE_MODE_ON
+```
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  OPEN SOURCE                                  -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🌐 &nbsp;`// OPEN_SOURCE :: CONTRIBUTIONS`
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-00d4ff?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0d1117" alt="Open Source"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/PRs-Welcome-00ff9d?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="PRs Welcome"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Repositories-35+-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repos"/>
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  DEV QUOTE                                    -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 💭 &nbsp;`// QUOTE_OF_THE_DAY`
+
+<div align="center">
+  <img src="https://quotes-github-profile.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote" width="80%"/>
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  CONNECT WITH ME                              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🌐 &nbsp;`// CONNECT_WITH_ME :: SECURE_LINK`
+
+<div align="center">
+<br/>
+
+<a href="https://karthik-k-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_My_Work-00d4ff?style=for-the-badge&labelColor=0d1117" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/karthikk4">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_Professionally-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="mailto:karthik444568@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Send_Me_a_Mail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>&nbsp;
+<a href="https://github.com/karthikk20234119-cmd">
+  <img src="https://img.shields.io/badge/GitHub-View_My_Code-e6edf3?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<a href="https://karthik-k-portfolio.vercel.app/experience">
+  <img src="https://img.shields.io/badge/📄_RESUME-Download_CV-00ff9d?style=for-the-badge&labelColor=0d1117" alt="Resume"/>
+</a>
+
+<br/><br/>
+
+```
+✉  karthik444568@gmail.com
+🔗  linkedin.com/in/karthikk4
+🌐  karthik-k-portfolio.vercel.app
+📍  Madurai, Tamil Nadu, India
+```
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                       FOOTER                                  -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br/>
+
+*"I build autonomous agent systems, neural computer vision pipelines, and production-ready full-stack software products that compound human leverage."*
+
+<br/>
+
+<img src="https://img.shields.io/badge/Built_with-Precision_&_Purpose-00d4ff?style=flat-square&labelColor=0d1117" alt="Built with Precision"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Made_in-Madurai,_India-a78bfa?style=flat-square&labelColor=0d1117" alt="Made in India"/>
+&nbsp;
+<img src="https://img.shields.io/badge/©_2026-Karthik_K-00ff9d?style=flat-square&labelColor=0d1117" alt="Copyright"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0a1628,100:030303&height=120&section=footer" width="100%"/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--            ⚙️  SNAKE ANIMATION SETUP INSTRUCTIONS             -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--
+  To activate the contribution snake animation:
+
+  1. Create the file: .github/workflows/snake.yml  in this repo
+  2. Paste the following content:
+
+  ─────────────────────────────────────────────────────────────────
+  name: Generate Snake Animation
+
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+    push:
+      branches:
+        - main
+
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      timeout-minutes: 10
+      steps:
+        - name: Generate github-contribution-grid-snake.svg
+          uses: Platane/snk/svg-only@v3
+          with:
+            github_user_name: karthikk20234119-cmd
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+        - name: Push output to branch
+          uses: crazy-max/ghaction-github-pages@v3.1.0
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  ─────────────────────────────────────────────────────────────────
+
+  3. Commit and push. GitHub Actions will run and generate the snake.
+  4. The snake SVG will appear automatically in this README.
+-->
