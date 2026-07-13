@@ -345,7 +345,11 @@ I default to backend-and-data-model-first because it's cheaper to fix an API con
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikk20234119-cmd&bg_color=0f172a&color=22d3ee&line=8b5cf6&point=ec4899&area=true&hide_border=true&radius=8" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/karthikk20234119-cmd/karthikk20234119-cmd/output/github-snake-dark.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karthikk20234119-cmd/karthikk20234119-cmd/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karthikk20234119-cmd/karthikk20234119-cmd/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/karthikk20234119-cmd/karthikk20234119-cmd/output/github-snake-dark.svg" width="100%" alt="GitHub Snake" />
+</picture>
 
 <br/>
 
