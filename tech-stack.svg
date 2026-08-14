@@ -1,0 +1,39 @@
+<svg width="1000" height="520" viewBox="0 0 1000 520" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tierTop" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="tierMid" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#B8A56A"/>
+    </linearGradient>
+    <linearGradient id="tierBase" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3A0D16"/>
+      <stop offset="100%" stop-color="#800020"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="520" fill="#08090D"/>
+
+  <!-- apex -->
+  <polygon points="500,40 640,150 360,150" fill="url(#tierTop)" opacity="0.9"/>
+  <text x="500" y="110" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#08090D">AI SYSTEMS</text>
+  <text x="500" y="132" text-anchor="middle" font-family="Arial" font-size="12" fill="#08090D">Agentic AI &#183; MCP &#183; LangGraph</text>
+
+  <!-- mid tier -->
+  <polygon points="360,150 640,150 730,290 270,290" fill="url(#tierMid)" opacity="0.92"/>
+  <text x="500" y="205" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#08090D">COMPUTER VISION</text>
+  <text x="500" y="226" text-anchor="middle" font-family="Arial" font-size="12" fill="#08090D">YOLOv8 &#183; OpenCV &#183; TensorFlow</text>
+  <text x="500" y="256" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#08090D">INTELLIGENT APPS</text>
+  <text x="500" y="277" text-anchor="middle" font-family="Arial" font-size="12" fill="#08090D">React &#183; Node.js &#183; REST APIs</text>
+
+  <!-- base -->
+  <polygon points="270,290 730,290 850,470 150,470" fill="url(#tierBase)" opacity="0.95"/>
+  <text x="500" y="360" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#F5F2E8">DATA + CLOUD + DEVOPS FOUNDATION</text>
+  <text x="500" y="392" text-anchor="middle" font-family="Arial" font-size="13" fill="#E6C875">MySQL &#183; MongoDB &#183; Supabase &#183; AWS</text>
+  <text x="500" y="416" text-anchor="middle" font-family="Arial" font-size="13" fill="#E6C875">Docker &#183; Kubernetes &#183; Git &#183; Linux &#183; Vercel</text>
+
+  <!-- layer separators glow -->
+  <line x1="360" y1="150" x2="640" y2="150" stroke="#FFD700" stroke-width="1.5" opacity="0.7"/>
+  <line x1="270" y1="290" x2="730" y2="290" stroke="#FFD700" stroke-width="1.5" opacity="0.7"/>
+</svg>

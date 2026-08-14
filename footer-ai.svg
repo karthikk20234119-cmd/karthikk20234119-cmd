@@ -1,0 +1,23 @@
+<svg width="1400" height="160" viewBox="0 0 1400 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#08090D"/>
+      <stop offset="50%" stop-color="#181A20"/>
+      <stop offset="100%" stop-color="#08090D"/>
+    </linearGradient>
+    <linearGradient id="footLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#800020" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#D4AF37" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#800020" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="160" fill="url(#footBg)"/>
+  <rect x="0" y="30" width="1400" height="1.5" fill="url(#footLine)"/>
+  <circle cx="700" cy="30" r="4" fill="#22D3EE"/>
+  <text x="700" y="90" text-anchor="middle" font-family="Arial" font-size="16" fill="#B8A56A" font-style="italic">
+    "Ship the whole thing, not just the clever part."
+  </text>
+  <text x="700" y="120" text-anchor="middle" font-family="Arial" font-size="12" letter-spacing="3" fill="#22D3EE">
+    KARTHIK K &#183; AI ENGINEER
+  </text>
+</svg>
